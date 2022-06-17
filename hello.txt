@@ -13,5 +13,4 @@ hello git
 hello git
 hello git
 hello git
-hello git master tesst
-hello git
+hello git mastet-
